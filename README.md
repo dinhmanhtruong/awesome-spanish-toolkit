@@ -4,7 +4,7 @@
 
 Una lista completa de aplicaciones web gratuitas en español que no requieren registro. Perfecta para estudiantes, profesores, desarrolladores y cualquier persona que busque herramientas útiles en español.
 
-## Contenido
+## Contents
 
 - [Matemáticas](#matemáticas)
 - [Ciencias](#ciencias)
