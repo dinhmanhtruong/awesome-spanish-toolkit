@@ -102,6 +102,7 @@ Una lista completa de aplicaciones web gratuitas en español que no requieren re
 * [Cronómetro y Temporizador](https://meskeia.com/cronometro-temporizador) - Cronómetro preciso con alarmas
 * [Lista de Tareas](https://meskeia.com/lista-tareas) - Gestor de tareas simple y efectivo
 * [Generador de Horarios de Estudio](https://meskeia.com/generador-horarios-estudio) - Planifica tu tiempo de estudio
+* [Conversor de Horarios Mundial](https://meskeia.com/conversor-horarios) - Compara horarios de 31 ciudades con relojes analógicos en tiempo real, indicadores día/noche y conversor entre zonas horarias
 
 ### Herramientas de Texto
 
